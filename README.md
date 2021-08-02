@@ -20,4 +20,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sekarmk03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekarmk03&layout=compact)](https://github.com/sekarmk03/github-readme-stats)
