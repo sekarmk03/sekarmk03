@@ -11,7 +11,7 @@
 
 📄 &nbsp;Please have a look at my [Résumé](https://www.azarnsite.xyz) for my updated data. I'm open to any feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img height="150px" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -52,5 +52,5 @@
 <a href="https://www.instagram.com/sekarmk03/"><img src="https://img.shields.io/badge/@sekarmk03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/sekarmk03"><img src="https://img.shields.io/badge/@sekarmk03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:sekarmadu99@gmail.com"><img src="https://img.shields.io/badge/sekarmadu99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/sekarmk03"><img src="	https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/sekarmk03"><img src="https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
