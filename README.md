@@ -13,7 +13,7 @@
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1kPNZ0J9btD9S31TY_bKe_jfAfHc6_2_C/view?usp=sharing) for my updated data.
 
 
-<img height="150px" alt="Cat Coding" src="https://i.imgur.com/3jkwcQX.gif" align="right"/>
+<img height="160px" alt="Cat Coding" src="https://i.imgur.com/3jkwcQX.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
