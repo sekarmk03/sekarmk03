@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sekarmk03/"><img src="https://img.shields.io/badge/-Sekar%20Madu%20Kusumawardani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@sekarmk03"><img src="https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://medium.com/@sekarmk03"><img src="https://img.shields.io/badge/@sekarmk03-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/sekarmk03/"><img src="https://img.shields.io/badge/@sekarmk03-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/sekarmk03"><img src="https://img.shields.io/badge/@sekarmk03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:sekarmadu99@gmail.com"><img src="https://img.shields.io/badge/sekarmadu99@gmail.com-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
