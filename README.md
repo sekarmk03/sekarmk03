@@ -3,11 +3,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Love to explore new technologies and develop software solutions.\
-🎓 &nbsp;Currently Computer Science at Universitas Pendidikan Indonesia.\
+🎓 &nbsp;Final year Computer Science student at Universitas Pendidikan Indonesia.\
 🌱 &nbsp;On learning about Back-End Development and Cloud Technologies.\
 ✍️ &nbsp;Like to watch bstation and read manga.\
 💬 &nbsp;Feel free to reach me out to discuss about anything.\
-✉️ &nbsp;Shoot me an email at sekarmadu99@gmail.com! I'll try to respond asap.\
+✉️ &nbsp;Shoot me an email at sekarmadu99@gmail.com! I'll try to respond asap.
 
 
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1kPNZ0J9btD9S31TY_bKe_jfAfHc6_2_C/view?usp=sharing) for my updated data.
@@ -52,8 +52,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sekarmk03/"><img src="https://img.shields.io/badge/-Sekar%20Madu%20Kusumawardani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/sekarmk03/"><img src="https://img.shields.io/badge/@sekarmk03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@sekarmk03"><img src="https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.instagram.com/sekarmk03/"><img src="https://img.shields.io/badge/@sekarmk03-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/sekarmk03"><img src="https://img.shields.io/badge/@sekarmk03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:sekarmadu99@gmail.com"><img src="https://img.shields.io/badge/sekarmadu99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/sekarmk03"><img src="https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:sekarmadu99@gmail.com"><img src="https://img.shields.io/badge/sekarmadu99@gmail.com-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/sekarmk03"><img src="https://img.shields.io/badge/Sekar%20Madu%20Kusumawardani-843AB5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
