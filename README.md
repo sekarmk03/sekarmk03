@@ -2,16 +2,18 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science at Universitas Pendidikan Indonesia.\
-🌱 &nbsp;I'm on track for learning more about Back-End Development and Cloud Technologies.\
-✍️ &nbsp;In my free time, I pursue watching bstation and reading manga. \
-💬 &nbsp;Feel free to reach out to me for discussion about anything.\
-✉️ &nbsp;You can shoot me an email at sekarmadu99@gmail.com! I'll try to respond as soon as I can. \
+💡 &nbsp;Love to explore new technologies and develop software solutions.\
+🎓 &nbsp;Currently Computer Science at Universitas Pendidikan Indonesia.\
+🌱 &nbsp;On learning about Back-End Development and Cloud Technologies.\
+✍️ &nbsp;Like to watch bstation and read manga.\
+💬 &nbsp;Feel free to reach me out to discuss about anything.\
+✉️ &nbsp;Shoot me an email at sekarmadu99@gmail.com! I'll try to respond asap.\
 
-📄 &nbsp;Please have a look at my [Résumé](https://www.azarnsite.xyz) for my updated data. I'm open to any feedback and suggestions!
 
-<img height="150px" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1kPNZ0J9btD9S31TY_bKe_jfAfHc6_2_C/view?usp=sharing) for my updated data.
+
+
+<img height="150px" alt="Cat Coding" src="https://i.imgur.com/3jkwcQX.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
